@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://renderform.io/blog/post-cover-blue.png",
+        "title": "The Art of Programming",
+        "author": "John Doe",
+        "author_img": "https://media.licdn.com/dms/image/C4E03AQE_SpykyS10Fg/profile-displayphoto-shrink_400_400/0/1580226103010?e=2147483647&v=beta&t=FyFRqABWGFeFH__aGnKZlULek_YWo2NrXLNZbonjVxA",
+        "posted_date": "Mar 14 (4 Day ago)",
+        "reading_time": 5,
+        "hashtags": ["#programming", "#coding", "#development"]
+      },
+      {
+        "id": 2,
+        "cover": "https://i0.wp.com/www.socialsuccessmarketing.com/storage/2013/07/7-practices-when-icluding-images-in-blog.jpeg?fit=900%2C600&ssl=1",
+        "title": "Data Science Essentials",
+        "author": "Jane Smith",
+        "author_img": "https://qph.cf2.quoracdn.net/main-thumb-2303432769-100-gscxeoocfnqqvvtiuwftaarmyectenfh.jpeg",
+        "posted_date": "Jan 24 (6 Day ago)",
+        "reading_time": 45,
+        "hashtags": ["#data science", "#machine learning", "#analytics"]
+      },
+      {
+        "id": 3,
+        "cover": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/new-blog-post-template-for-facebook-cover-design-442cd9e9ec3a99e72ab2ab176efd9c3a_screen.jpg?ts=1582095681",
+        "title": "Cooking Mastery",
+        "author": "Alice Johnson",
+        "author_img": "https://pbs.twimg.com/profile_images/1336243125270978560/G8fGFQT-_400x400.jpg",
+        "posted_date": "Feb 4 (2 Day ago)",
+        "reading_time": 60,
+        "hashtags": ["#cooking", "#recipes", "#food"]
+      },  
+      {
+        "id": 4,
+        "cover": "https://prezibase.com/wp-content/uploads/2022/10/effective-blog-cover-header-images-1.jpg",
+        "title": "Financial Freedom",
+        "author": "Michael Brown",
+        "author_img": "https://www.jagurltv.com/wp-content/uploads/2020/12/5481.jpg",
+        "posted_date": "Apr 10 (7 Day ago)",
+        "reading_time": 40,
+        "hashtags": ["#finance", "#investment", "#money"]
+      },
+      {
+        "id": 5,
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT07R9p7oGatBdkwEL_bN-TnIKIS1Cvclj2CHToEXTFEKdcNy5QWNzTZN2SXbrJWdsuNWc&usqp=CAU",
+        "title": "Health and Wellness",
+        "author": "Emily White",
+        "author_img": "https://qph.cf2.quoracdn.net/main-thumb-5121375-200-cxiozfffwxihgivxovgxkmmoudxrycsn.jpeg",
+        "posted_date": "May 4 (3 Day ago)",
+        "reading_time": 50,
+        "hashtags": ["#health", "#fitness", "#wellness"]
+      }                    
+]
